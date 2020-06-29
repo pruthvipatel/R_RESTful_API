@@ -1,4 +1,4 @@
-# R_RESTful_API
+# R_with_API
  Simple machine learning model wrapped with API
 
 After downloading this repo, open RStudio and install plumber and neuralnet package by running:
